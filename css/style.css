@@ -28,6 +28,13 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+
+.text {
+position: absolute;
+color: #0099ff;
+top: 38%;  left: 47.8%; z-index: 100;
+}
+
 .wrapper {
   position: absolute;
   top: 50%;
